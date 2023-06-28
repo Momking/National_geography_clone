@@ -1,2 +1,2 @@
 # National_geography_clone
-This website is created only for educational purposes
+This website is created with a different type of animation.
